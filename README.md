@@ -67,10 +67,8 @@ Some code
 
 ## Authors
 
-*  **Krishna Yallayi** - *Dreambooks API & Sorting Function* - [Krishna](https://github.com/darthvader1118)
-*  **Mario Aburto** - *Firebase & GoogleBooks API* - [Mario](https://github.com/marioaburto10)
 *  **Muhammet Aydin** - *Dreambooks API, sweetalert, Debugging* - [Muhammet](https://github.com/muhammeta7)
-*  **Stefanie Ding** - *Google Books API, HTML, CSS, JS files, Debugging* - [Stefanie](https://github.com/StefanieDing)
+
 
 ## License
 
